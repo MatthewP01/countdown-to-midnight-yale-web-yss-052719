@@ -9,7 +9,7 @@ def countdown(start)
 end
 
 def countdown_with_sleep(start_two)
-  count_down = 0
+  count_down = 1
   while start_two > count_down
     puts "#{start_two} SECOND(S)!"
     start_two -= 1
