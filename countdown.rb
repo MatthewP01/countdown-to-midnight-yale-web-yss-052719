@@ -5,7 +5,6 @@ def countdown(start)
     "#{number} SECOND(S)!"
     start -= 1
     break if start == count_down
-
     end
   if start ==
 end
